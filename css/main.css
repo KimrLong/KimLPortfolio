@@ -590,10 +590,12 @@ textarea, label {
   border: 5px solid #1e2530;
   margin-right: 30px;
   padding: 5px;
+
 }
 .about-author .author-thumb img {
   border: 2px solid #1e2530;
-  width: 145px;
+  width: 300px;
+  height: auto;
 }
 .about-author .author-desc p {
   color: #1e2530;
